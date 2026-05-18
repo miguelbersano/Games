@@ -13,7 +13,7 @@ Warm-up project #1: Game of `Stop` - version 1
 """
 from google import genai
 from google.genai import types
-genai_client = genai.Client(api_key='AIzaSyDsl2fK1of0JPCnI30oDoEYDIDWBC-_w80')
+genai_client = genai.Client(api_key='api key removed for privacy')
 
 import string
 import os
